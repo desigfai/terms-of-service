@@ -1,3 +1,7 @@
+---
+layout: default
+title: TOS – Desi Girlfriend AI
+---
 ### Terms of Service
 
 **Last Updated: March 30, 2026**

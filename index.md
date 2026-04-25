@@ -30,6 +30,7 @@ Desi Girlfriend AI offers premium features through auto-renewing subscriptions (
 **5. Acceptable Use Policy**
 You agree not to use the App to:
 * Generate, promote, or share illegal content, including but not limited to child sexual abuse material (CSAM), non-consensual explicit content involving real individuals, or content promoting terrorism.
+* Generate or attempt to generate sexually explicit, offensive, or derogatory content involving religious figures, deities, or any content intended to outrage religious sentiments.
 * Attempt to reverse-engineer, decompile, or extract the source code or AI prompts of the App.
 * Use the App in a way that overburdens or disrupts our servers or networks.
 * Harass, threaten, or impersonate real individuals through the App's systems.

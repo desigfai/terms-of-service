@@ -4,7 +4,7 @@ title: TOS – Desi Girlfriend AI
 ---
 ### Terms of Service
 
-**Last Updated: March 30, 2026**
+**Last Updated: June 11, 2026**
 
 **1. Acceptance of Terms**
 By downloading, accessing, or using the Desi Girlfriend AI mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). This App is developed and operated by Nabhos Interactive ("we," "our," or "us"). If you do not agree to these Terms, you must immediately uninstall and discontinue using the App.
@@ -25,21 +25,30 @@ Desi Girlfriend AI offers premium features through auto-renewing subscriptions (
 * **Payment:** Payment will be charged to your Google Play account at the confirmation of purchase.
 * **Auto-Renewal:** Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current billing period. For users in India, recurring payments are subject to local banking regulations and Reserve Bank of India (RBI) e-mandate approval processes.
 * **Management & Cancellation:** You can manage your subscriptions and turn off auto-renewal at any time by going to your Google Play Account Settings.
-* **Refunds:** All purchases are subject to Google Play's refund policies. We do not process refunds directly.
+* **Refunds and Account Termination:**  All purchases are generally subject to Google Play's refund policies, and we do not process refunds directly. However, if your account is suspended or permanently terminated due to a violation of our Acceptable Use Policy (Section 5) or Age Requirements (Section 2), you will forfeit any remaining time on your subscription. You will not be entitled to, and we will not authorize, any refunds for any amounts already paid, to the maximum extent permitted by law and Google Play policies.
 
 **5. Acceptable Use Policy**
 You agree not to use the App to:
 * Generate, promote, or share illegal content, including but not limited to child sexual abuse material (CSAM), non-consensual explicit content involving real individuals, or content promoting terrorism.
+* Generate, promote, or attempt to generate content involving the sexualization of minors (underage roleplay), bestiality, incest, or non-consensual sexual content.
 * Generate or attempt to generate sexually explicit, offensive, or derogatory content involving religious figures, deities, or any content intended to outrage religious sentiments.
 * Attempt to reverse-engineer, decompile, or extract the source code or AI prompts of the App.
 * Use the App in a way that overburdens or disrupts our servers or networks.
 * Harass, threaten, or impersonate real individuals through the App's systems.
+**Intellectual Property Violations:** You must not create, upload, or prompt characters based on real, living, or deceased individuals without their explicit consent. Furthermore, you must not create characters that infringe upon third-party copyrights, trademarks, or intellectual property (e.g., popular movie, book, or video game characters). 
+We reserve the right to delete or modify any user-generated character or content that we believe infringes on intellectual property rights or violates the likeness of a real person, without prior notice.
+* Consequences of Violation: Any violation of this Acceptable Use Policy will result in an immediate and permanent ban of your account. As stated in Section 4, banned PRO users are not eligible for refunds.
 
 **6. Intellectual Property**
 All rights, title, and interest in and to the App, including its underlying software, UI/UX, branding, and original character concepts, are owned by Nabhos Interactive. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes.
+**Changes to the AI and Service**
+Artificial Intelligence is an evolving technology. Nabhos Interactive reserves the right to modify, update, restrict, or discontinue the App, its features, AI models, character personalities, and memory systems at any time, with or without notice. We do not guarantee that any specific AI character, personality trait, or conversation history will remain permanent, unchanged, or available indefinitely. We are not liable for any changes in AI behavior, loss of contextual memory, or alterations to the user experience resulting from backend updates or safety filter adjustments.
 
 **7. Disclaimer of Warranties**
 The App is provided on an "AS-IS" and "AS-AVAILABLE" basis. Nabhos Interactive makes no warranties, expressed or implied, regarding the App's availability, reliability, or accuracy. We do not guarantee that the App will be free from bugs, errors, or interruptions.
+
+**Indemnification**
+You agree to indemnify, defend, and hold harmless Nabhos Interactive, its developers, and affiliates from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal and attorney's fees) arising out of or in any way connected with your access to or use of the App, your violation of these Terms, or your generation of prohibited content.
 
 **8. Limitation of Liability**
 To the maximum extent permitted by law, Nabhos Interactive shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the App, including any emotional distress or damages resulting from interactions with the AI.
